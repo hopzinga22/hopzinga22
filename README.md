@@ -78,7 +78,7 @@ My long-term goal is to contribute to Kenya's growing tech ecosystem through com
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-hopzinga22-181717?style=flat-square&logo=github)](https://github.com/hopzinga22)
-[![Email](https://img.shields.io/badge/Email-Strathmore-238636?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-Strathmore-238636?style=flat-square&logo=gmail&logoColor=white)](mailto:jonzakmwembe@gmail.com)
 [![Location](https://img.shields.io/badge/Based_in-Nairobi%2C_Kenya_🇰🇪-blueviolet?style=flat-square)](/)
 
 </div>
