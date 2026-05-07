@@ -8,6 +8,8 @@
 
 [![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)](/)
 [![C++](https://img.shields.io/badge/C++-004482?style=flat-square&logo=cplusplus&logoColor=white)](/)
+[![Python](https://img.shields.io/badge/python-language])](/)
+
 [![Cloud](https://img.shields.io/badge/Cloud_Computing-Learning-orange?style=flat-square&logo=amazonaws&logoColor=white)](/)
 [![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Learning-blueviolet?style=flat-square&logo=hackthebox&logoColor=white)](/)
 [![Networking](https://img.shields.io/badge/Networking-Learning-informational?style=flat-square&logo=cisco&logoColor=white)](/)
